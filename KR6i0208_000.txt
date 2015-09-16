@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說轉有經
+#+DATE: 2015-08-30 20:12:50.219396
+#+PROPERTY: JUAN 0
